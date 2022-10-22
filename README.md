@@ -1,8 +1,6 @@
 # vikfrik.github.io
 Персональная страница Фрика Виктора 
-## ссылочка 
-https://www.google.ru/search?q=%D0%BF%D0%B5%D1%80%D0%B5%D0%BC%D0%B5%D0%BD&newwindow=1&hl=ru&source=lnms&tbm=vid&sa=X&ved=2ahUKEwioxo3349n6AhUP_SoKHWqfD-cQ_AUoAXoECAEQAw&biw=1920&bih=937&dpr=1
 
-Фото, приложенное к репозиторию - нейронка
+![alt tag](https://sun9-48.userapi.com/impg/cknatw6FqWzFxYJQC2vcXVtndiiQkZIc3rjxRw/pAkNwsnpnmU.jpg?size=720x1080&quality=95&sign=65b783114f75342d32ac39f9573a968e&type=album)
 
-Другие файлы расположены в репозитории my_projects
+Проекты расположены в репозитории my_projects
